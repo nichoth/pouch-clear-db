@@ -1,6 +1,6 @@
 {
   "name": "pouch-clear-db",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "delete all docs in a pouchdb",
   "main": "index.js",
   "scripts": {
